@@ -36,7 +36,7 @@ AI Trainer is a modern career-assistance web application built with **Next.js**,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ai-trainer/
