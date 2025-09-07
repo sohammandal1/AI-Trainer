@@ -4,7 +4,7 @@ AI Trainer is a modern career-assistance web application built with **Next.js**,
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Resume Builder**  
   Create and manage resumes with a customizable entry form and structured templates.
@@ -26,7 +26,7 @@ AI Trainer is a modern career-assistance web application built with **Next.js**,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** [Next.js](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/), PostCSS
@@ -58,7 +58,7 @@ ai-trainer/
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -98,7 +98,7 @@ App will be available at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ```bash
 npm run test
